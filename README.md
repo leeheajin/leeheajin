@@ -3,7 +3,8 @@
 
 ## 🙋 LeeHeajin : Heazzi
 - 안드로이드, 게임 제작에 관심이 많아요  
-- 찐 개발자가 되고 싶은 초보 개발자 💻
+- 찐 개발자가 되고 싶은 초보 개발자 💻  
+- 롤과 쿠키런 킹덤을 즐겨해요 🎮
 
 ## 💙 Career
 | Type 	| Date 	| Contents 	| Organization 	|
