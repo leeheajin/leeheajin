@@ -9,7 +9,7 @@
 | Type 	| Date 	| Contents 	| Organization 	|
 |:-:	|:-:	|:-:	|:-:	|
 | Education 	| 2017.03<br>~<br>2021.09 	| Department of Computer Science 	| Ewha Woman's University 	|
-| Team Study 	| 2021.05 	| Game Analysis Study 	| Ewha Woman's University 	|
+| Group Study 	| 2021.05 	| Game Analysis Study 	| Ewha Woman's University 	|
 | Personal Project 	| 2021.05 	| Make My Application 	|  	|
 
 ## 📚 Languages
