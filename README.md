@@ -12,6 +12,7 @@
 | Education 	| 2017.03<br>~<br>2021.09 	| Department of Computer Science 	| Ewha Woman's University 	|
 | Group Study 	| 2021.05 	| Game Analysis Study 	| Ewha Woman's University 	|
 | Personal Project 	| 2021.05 	| Make My Application 	|  	|
+| Personal Project 	| 2021.06 	| Self Game Planning 	|  	|
 
 ## 📚 Languages
 <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
